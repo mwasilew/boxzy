@@ -9,7 +9,7 @@ By beginning this manual we assume you have read and understood the following ma
 
 A NOTE TO ADVANCED USERS:
 
-Click [HERE](CNC_terminology.md) for an advanced user wiki to speed up your understanding of BoXZY. Beginners, we recommend against reading this until you have followed through all active instructions and milled some of your own files.
+Click [HERE](CNC_Terminology.md) for an advanced user wiki to speed up your understanding of BoXZY. Beginners, we recommend against reading this until you have followed through all active instructions and milled some of your own files.
 
 ## Step 1 — Milling on BoXZY: From Start to Finish
 
