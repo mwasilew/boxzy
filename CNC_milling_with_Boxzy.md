@@ -20,7 +20,7 @@ Click [HERE](CNC_terminology.md) for an advanced user wiki to speed up your unde
  * Verify that BoXZY is connected to the BoXZY Interface and that you have homed your empty machine before beginning these steps.
  * Step 1: Create a file for the object you wish to mill.
  * Step 2: Mount your raw material blank or part.
- * Step 3: Set your Z offset and run an air pass.
+ * Step 3: [Set your Z offset and run an air pass](Setting_User_Home_for_Milling.md).
  * Step 4: Execute your file and mill your creation!
  * The rest of this manual will guide you through milling a sample file. It's important that you follow this entire manual before attempting to mill your own file.
 

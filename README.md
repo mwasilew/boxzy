@@ -17,5 +17,6 @@ Tutorial:
 
 Additional BoXZY resources:
  * [Dust collection hood](https://www.myminifactory.com/object/3d-print-boxzy-cnc-dust-boot-makita-rt0701-trim-router-55369)
+ * [Minifactory items](https://www.myminifactory.com/search/?query=boxzy)
  * [Fusion 360 post processor](https://cam.autodesk.com/hsmposts?p=boxzy&utm_source=Has+Purchased&utm_campaign=ac5bc3194c-EMAIL_CAMPAIGN_2017_06_15&utm_medium=email&utm_term=0_37b63d7337-ac5bc3194c-140215021&mc_cid=ac5bc3194c&mc_eid=5116e89b37)
     * [Installing instructions](https://forums.autodesk.com/t5/hsm-post-processor-forum/downloding-a-new-post/m-p/7106202/highlight/true?utm_source=Has%20Purchased&utm_campaign=ac5bc3194c-EMAIL_CAMPAIGN_2017_06_15&utm_medium=email&utm_term=0_37b63d7337-ac5bc3194c-140215021&mc_cid=ac5bc3194c&mc_eid=5116e89b37#M13470)
